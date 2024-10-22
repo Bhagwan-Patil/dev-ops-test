@@ -1,5 +1,0 @@
-This is the first git file.
-
-This is the second git file in master branch.
-
-Adding footer note 2025
