@@ -1,0 +1,15 @@
+i am the bug fix file which will be used to fix the bug code.
+
+Additional bug fixed
+
+<<<<<<< HEAD
+Bug detected and fixed.
+=======
+one more but detected and fixed.
+
+6th bug detected and fixed.
+
+Adding fooetr note 2025
+>>>>>>> bug-fix
+
+2026 coming
